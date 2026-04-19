@@ -2,15 +2,21 @@
 layout: default
 ---
 
-{% comment %}Find the current podcast data{% endcomment %}
 {% assign current_podcast = nil %}
 {% for podcast in site.data.podcasts %}
-  {% if podcast.full_name == page.show %}
+  {% if podcast.slug == page.podcast_slug %}
     {% assign current_podcast = podcast %}
   {% endif %}
 {% endfor %}
 
 {% assign podcast_lessons = site.data.lessons[current_podcast.slug] %}
+
+{% comment %}Auto-redirect to latest lesson if available{% endcomment %}
+{% if podcast_lessons.size > 0 %}
+<script>
+  window.location.replace("{{ podcast_lessons.first.url | relative_url }}");
+</script>
+{% endif %}
 
 <div class="layout-with-sidebar">
   <aside class="sidebar">
@@ -25,9 +31,7 @@ layout: default
       <ul class="sidebar-list">
         {% for lesson in podcast_lessons %}
           <li>
-            {% assign lesson_url_slash = lesson.url | append: '/' %}
-            <a href="{{ lesson.url | relative_url }}"
-               class="sidebar-link {% if page.url == lesson.url or page.url == lesson_url_slash %}active{% endif %}">
+            <a href="{{ lesson.url | relative_url }}" class="sidebar-link">
               <time>{{ lesson.date_display }}</time>
               <span class="sidebar-link-title">{{ lesson.title }}</span>
             </a>
@@ -35,18 +39,20 @@ layout: default
         {% endfor %}
       </ul>
       {% if podcast_lessons.size == 0 %}
-        <p class="sidebar-empty">No episodes yet.</p>
+        <p class="sidebar-empty">No episodes yet. Run the lesson pipeline to add content.</p>
       {% endif %}
     </nav>
   </aside>
 
   <main class="lesson-main">
-    <article class="lesson" style="--podcast-accent: {{ current_podcast.color }}; --podcast-accent-light: {{ current_podcast.color_light }};">
-      <div class="lesson-meta">
-        <span class="tag {{ current_podcast.tag_class }}">{{ page.show }}</span>
-        <time>{{ page.date_label }}</time>
-      </div>
-      {{ content }}
-    </article>
+    <div class="podcast-landing">
+      <h1 style="color: {{ current_podcast.color }};">{{ current_podcast.full_name }}</h1>
+      <p>{{ current_podcast.description }}</p>
+      {% if podcast_lessons.size > 0 %}
+        <p>Redirecting to the latest episode...</p>
+      {% else %}
+        <p>No episodes available yet.</p>
+      {% endif %}
+    </div>
   </main>
 </div>

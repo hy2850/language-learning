@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "morning-special-part1",
+    "name": "Morning Special 1",
+    "full_name": "Morning Special Part 1",
+    "tag_class": "morning-special-part-1",
+    "color": "#16a34a",
+    "color_light": "#f0fdf4",
+    "description": "5 Headlines + Reckless Sentence"
+  },
+  {
+    "slug": "morning-special-part2",
+    "name": "Morning Special 2",
+    "full_name": "Morning Special Part 2",
+    "tag_class": "morning-special-part-2",
+    "color": "#ea580c",
+    "color_light": "#fff7ed",
+    "description": "NYT Article + Today's Idiom"
+  },
+  {
+    "slug": "power-english",
+    "name": "Power English",
+    "full_name": "Power English",
+    "tag_class": "power-english",
+    "color": "#2563eb",
+    "color_light": "#eff6ff",
+    "description": "Expressions + Dialogue"
+  },
+  {
+    "slug": "evening-special",
+    "name": "Evening Special",
+    "full_name": "Evening Special",
+    "tag_class": "evening-special",
+    "color": "#7c3aed",
+    "color_light": "#f5f3ff",
+    "description": "Vocabulary Report"
+  },
+  {
+    "slug": "tanoshii-jp",
+    "name": "Tanoshii JP",
+    "full_name": "Tanoshii Japanese",
+    "tag_class": "tanoshii-jp",
+    "color": "#dc2626",
+    "color_light": "#fef2f2",
+    "description": "Japanese Podcast"
+  }
+]
