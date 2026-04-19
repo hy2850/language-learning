@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <span class="breadcrumb">/ {{ page.date_label }} / {{ page.show }}</span>
+    </nav>
+  </header>
+  <main>
+    <article class="lesson">
+      <div class="lesson-meta">
+        <span class="tag {{ page.show | slugify }}">{{ page.show }}</span>
+        <time>{{ page.date_label }}</time>
+      </div>
+      {{ content }}
+    </article>
+    <a href="{{ '/' | relative_url }}" class="back-link">&larr; Back to all lessons</a>
+  </main>
+  <footer>
+    <p>Generated from EBS FM podcast transcripts using AI</p>
+  </footer>
+</body>
+</html>

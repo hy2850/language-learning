@@ -1,0 +1,174 @@
+:root {
+  --bg: #fafaf9;
+  --fg: #1c1917;
+  --muted: #78716c;
+  --border: #e7e5e4;
+  --accent: #2563eb;
+  --accent-light: #eff6ff;
+  --green: #16a34a;
+  --green-light: #f0fdf4;
+  --orange: #ea580c;
+  --orange-light: #fff7ed;
+  --purple: #7c3aed;
+  --purple-light: #f5f3ff;
+  --radius: 8px;
+  --max-width: 740px;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans KR", sans-serif;
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+header {
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 1.5rem;
+  background: white;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.site-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.breadcrumb {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+main {
+  max-width: var(--max-width);
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+footer {
+  border-top: 1px solid var(--border);
+  padding: 1.5rem;
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+  margin-top: 4rem;
+}
+
+/* Index page */
+.lesson-list { list-style: none; }
+
+.lesson-card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1rem;
+  background: white;
+  transition: border-color 0.15s;
+}
+
+.lesson-card:hover { border-color: var(--accent); }
+
+.lesson-card a {
+  text-decoration: none;
+  color: var(--fg);
+  display: block;
+}
+
+.lesson-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.lesson-card .meta {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.tag {
+  display: inline-block;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.tag.power-english { background: var(--accent-light); color: var(--accent); }
+.tag.morning-special-part-1 { background: var(--green-light); color: var(--green); }
+.tag.morning-special-part-2 { background: var(--orange-light); color: var(--orange); }
+.tag.evening-special { background: var(--purple-light); color: var(--purple); }
+
+.date-group { margin-bottom: 2.5rem; }
+.date-group h2 {
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Lesson article */
+.lesson-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.lesson h1 { font-size: 1.6rem; margin: 0.5rem 0 1.5rem; }
+.lesson h2 {
+  font-size: 1.2rem;
+  margin: 2rem 0 0.75rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+}
+.lesson h2:first-of-type { border-top: none; padding-top: 0; }
+.lesson h3 { font-size: 1rem; margin: 1.25rem 0 0.5rem; color: var(--accent); }
+
+.lesson p { margin-bottom: 0.75rem; }
+.lesson ul, .lesson ol { margin: 0.5rem 0 0.75rem 1.5rem; }
+.lesson li { margin-bottom: 0.3rem; }
+
+.lesson strong { color: var(--fg); }
+.lesson hr { border: none; border-top: 1px solid var(--border); margin: 1.5rem 0; }
+
+.lesson blockquote {
+  border-left: 3px solid var(--accent);
+  padding: 0.5rem 1rem;
+  margin: 0.75rem 0;
+  background: var(--accent-light);
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+.back-link:hover { text-decoration: underline; }
+
+@media (max-width: 600px) {
+  body { font-size: 15px; }
+  main { padding: 0 1rem; }
+  .lesson h1 { font-size: 1.3rem; }
+}

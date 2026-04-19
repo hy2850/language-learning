@@ -1,0 +1,7 @@
+title: HC's Language Study
+description: Daily English lesson reports from EBS radio podcasts
+baseurl: "/hcpark-language"
+url: ""
+markdown: kramdown
+kramdown:
+  input: GFM
