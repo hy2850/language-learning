@@ -26,28 +26,51 @@ date_label: "2026-04-20"
 셰인이 배우, 최수진이 매니저 역할. 셰인의 첫 레드카펫 행사 준비 중, 스타일리스트가 준비한 차콜 슬림핏 정장 대신 친구가 보내온 네온 색상의 80년대 Miami Vice 스타일 과대 사이즈 수트를 입겠다고 해 매니저를 경악시키는 상황.
 
 ### Dialogue
+
 **Sue (Manager):** Please stop fidgeting. If the artist smudges that concealer, we're ten minutes behind schedule.
+
 **Shane (Actor):** I can't help it, Sue. My first red carpet! Look at my hands; they're actually shaking.
+
 **Sue:** Okay, deep breaths — you look like a star. Okay? Oh, makeup is done — go and get dressed. The car's downstairs.
+
 **Shane:** Oh, speaking of getting dressed — I have a huge surprise.
+
 **Sue:** No, no, no — not another surprise, please, Shane. You know I don't have room for surprises when it comes to the public eye. Everything has been perfectly choreographed for a reason.
+
 **Shane:** Relax, Sue. This time it's different. A friend of mine owns a tailor shop and he sent me this summer suit that is perfect for today's event.
+
 **Sue:** What? No! What happened to the designer outfit? The stylist sent over last night — the charcoal slim fit.
+
 **Shane:** Oh, I'll wear that some other day. It was a bit stiff.
+
 **Sue:** No, Shane! Please stay behind that partition and put on the charcoal suit as planned. I don't care what your friend sent you.
+
 **Shane:** Too late; I'm already stepping into the trousers. You're gonna love this, Sue. It's a total vibe. The look is inspired by 80s popular shows. A complete homage to Miami Vice.
+
 **Sue:** Miami Vice, Shane? It's 2026. We discussed timeless elegance, not vintage detective. Come out of there right now!
+
 **Shane:** Tada! Awesome, right? I look so chic now. It's not too hot, so I won't be sweating under the flash bulbs. The colors are vibrant, and the fit is super relaxed.
+
 **Sue:** You call this vibrant? It's a neon salmon shade. The fabric is practically see-through; the colours are just tacky if you don't mind me saying. And the fit — it feels so relaxed it must be at least three sizes too big for you. You look like you're melting in it.
+
 **Shane:** My friend said this is the latest in male fashion. He said oversized is the new tailored.
+
 **Sue:** Listen to me, Shane. You cannot go out like that. I simply won't let you. You're not even wearing socks.
+
 **Shane:** Ah, that's because my ankles need to match my arms.
+
 **Sue:** Do not pull up your jacket sleeves. Don't you dare!
+
 **Shane:** Why not, Sue? It's breezy.
+
 **Sue:** No, Shane. No, this is a disaster.
+
 **Shane:** Come on! Is it really that bad?
+
 **Sue:** The tabloids and the online haters will have **a field day** with this catastrophe that you call fashion. You'll be a meme before you even reach the theater. Now, please go back and get dressed with the suit the stylist sent you right now.
+
 **Shane:** Fine, but for the record, you're killing my creative soul.
+
 **Sue:** No. What you're killing is your career, and mine. If you dare step outside looking like an '80s lava lamp filled with glitter — move!
 
 ### Meaning
