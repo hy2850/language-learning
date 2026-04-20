@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-04-20",
+      "date_display": "Apr 20, 2026",
+      "title": "EBS FM Morning Special — Part 1 Lesson Report",
+      "url": "/lessons/2026-04-20/morning-special-part1"
+    },
+    {
       "date": "2026-04-19",
       "date_display": "Apr 19, 2026",
       "title": "Morning Special Part 1 — Lesson Report",
@@ -9,6 +15,12 @@
   ],
   "morning-special-part2": [
     {
+      "date": "2026-04-20",
+      "date_display": "Apr 20, 2026",
+      "title": "Morning Special Part 2 — Lesson Report",
+      "url": "/lessons/2026-04-20/morning-special-part2"
+    },
+    {
       "date": "2026-04-19",
       "date_display": "Apr 19, 2026",
       "title": "Morning Special Part 2 — Lesson Report",
@@ -16,6 +28,12 @@
     }
   ],
   "power-english": [
+    {
+      "date": "2026-04-20",
+      "date_display": "Apr 20, 2026",
+      "title": "Trying New Cuisines — I'm Up for Anything",
+      "url": "/lessons/2026-04-20/power-english"
+    },
     {
       "date": "2026-04-19",
       "date_display": "Apr 19, 2026",
