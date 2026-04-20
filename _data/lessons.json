@@ -42,5 +42,12 @@
     }
   ],
   "evening-special": [],
-  "tanoshii-jp": []
+  "tanoshii-jp": [
+    {
+      "date": "2026-04-16",
+      "date_display": "Apr 16, 2026",
+      "title": "tanoshii-jp",
+      "url": "/lessons/2026-04-16/tanoshii-jp"
+    }
+  ]
 }
