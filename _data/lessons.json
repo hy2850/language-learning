@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-07-06",
+      "date_display": "Jul 6, 2026",
+      "title": "Morning Special Part 1 — July 6, 2026 Lesson Report",
+      "url": "/lessons/2026-07-06/morning-special-part1"
+    },
+    {
       "date": "2026-04-20",
       "date_display": "Apr 20, 2026",
       "title": "EBS FM Morning Special — Part 1 Lesson Report",
@@ -15,6 +21,12 @@
   ],
   "morning-special-part2": [
     {
+      "date": "2026-07-06",
+      "date_display": "Jul 6, 2026",
+      "title": "Morning Special Part 2 - July 6, 2026",
+      "url": "/lessons/2026-07-06/morning-special-part2"
+    },
+    {
       "date": "2026-04-20",
       "date_display": "Apr 20, 2026",
       "title": "Morning Special Part 2 — Lesson Report",
@@ -28,6 +40,12 @@
     }
   ],
   "power-english": [
+    {
+      "date": "2026-07-06",
+      "date_display": "Jul 6, 2026",
+      "title": "The Hunt for Korea's Best Shaved Ice",
+      "url": "/lessons/2026-07-06/power-english"
+    },
     {
       "date": "2026-04-20",
       "date_display": "Apr 20, 2026",
@@ -46,7 +64,7 @@
     {
       "date": "2026-04-16",
       "date_display": "Apr 16, 2026",
-      "title": "tanoshii-jp",
+      "title": "EBS 楽しい日本語 - lesson report",
       "url": "/lessons/2026-04-16/tanoshii-jp"
     }
   ]
