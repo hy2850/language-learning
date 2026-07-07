@@ -33,12 +33,12 @@ Today's episode is about adventurous eating. The hosts chat about their weekends
 
 ## 3. Power Dialogue
 
-I never imagined we'd be ordering tagine at a Moroccan restaurant on a weeknight.
-Me neither, but I'm up for anything this month.
-Same. Sometimes you have to take a risk to find food you actually love. The unfamiliar doesn't have to be scary.
-This place feels like one of those spots locals know about, but tourists miss.
-Yeah, we might discover hidden gems if we keep doing this.
-And even if we don't love everything, at least we can say we tried it.
+**A:** I never imagined we'd be ordering tagine at a Moroccan restaurant on a weeknight.
+**B:** Me neither, but I'm up for anything this month.
+**A:** Same. Sometimes you have to take a risk to find food you actually love. The unfamiliar doesn't have to be scary.
+**B:** This place feels like one of those spots locals know about, but tourists miss.
+**A:** Yeah, we might discover hidden gems if we keep doing this.
+**B:** And even if we don't love everything, at least we can say we tried it.
 
 ---
 

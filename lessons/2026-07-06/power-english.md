@@ -33,19 +33,19 @@ Summer is bingsu season, and Alex wants to try authentic Korean shaved ice after
 
 ## 3. Power Dialogue
 
-I've been looking forward to trying authentic Korean bingsu since I landed.
-You picked the perfect time; summer is pingsu season here.
-Where can I find the best one?
-I want the real deal, not a tourist trap.
-There's a famous spot in Insadong.
-People line up for hours though.
-I don't mind waiting.
-I'm set on having the best experience.
-You're serious about this, okay?
-Let's go tomorrow morning so we can beat the crowds.
-Perfect!
-What flavor should I try firstmango or enjoy me?
-Both are classics.
+**A:** I've been looking forward to trying authentic Korean bingsu since I landed.
+**B:** You picked the perfect time; summer is pingsu season here.
+**A:** Where can I find the best one?
+**A:** I want the real deal, not a tourist trap.
+**B:** There's a famous spot in Insadong.
+**B:** People line up for hours though.
+**A:** I don't mind waiting.
+**A:** I'm set on having the best experience.
+**B:** You're serious about this, okay?
+**B:** Let's go tomorrow morning so we can beat the crowds.
+**A:** Perfect!
+**A:** What flavor should I try firstmango or enjoy me?
+**B:** Both are classics.
 
 ---
 
