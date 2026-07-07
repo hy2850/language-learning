@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-07-07",
+      "date_display": "Jul 7, 2026",
+      "title": "Morning Special Part 1 - July 7, 2026",
+      "url": "/lessons/2026-07-07/morning-special-part1"
+    },
+    {
       "date": "2026-07-06",
       "date_display": "Jul 6, 2026",
       "title": "Morning Special Part 1 — July 6, 2026 Lesson Report",
@@ -21,6 +27,12 @@
   ],
   "morning-special-part2": [
     {
+      "date": "2026-07-07",
+      "date_display": "Jul 7, 2026",
+      "title": "Morning Special Part 2 - 2026-07-07 Lesson Report",
+      "url": "/lessons/2026-07-07/morning-special-part2"
+    },
+    {
       "date": "2026-07-06",
       "date_display": "Jul 6, 2026",
       "title": "Morning Special Part 2 - July 6, 2026",
@@ -40,6 +52,12 @@
     }
   ],
   "power-english": [
+    {
+      "date": "2026-07-07",
+      "date_display": "Jul 7, 2026",
+      "title": "Kicking Things Off in Jeju",
+      "url": "/lessons/2026-07-07/power-english"
+    },
     {
       "date": "2026-07-06",
       "date_display": "Jul 6, 2026",
