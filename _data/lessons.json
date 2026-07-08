@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-07-08",
+      "date_display": "Jul 8, 2026",
+      "title": "Morning Special Part 1 - July 8, 2026",
+      "url": "/lessons/2026-07-08/morning-special-part1"
+    },
+    {
       "date": "2026-07-07",
       "date_display": "Jul 7, 2026",
       "title": "Morning Special Part 1 - July 7, 2026",
@@ -27,6 +33,12 @@
   ],
   "morning-special-part2": [
     {
+      "date": "2026-07-08",
+      "date_display": "Jul 8, 2026",
+      "title": "Morning Special Part 2 - July 8, 2026",
+      "url": "/lessons/2026-07-08/morning-special-part2"
+    },
+    {
       "date": "2026-07-07",
       "date_display": "Jul 7, 2026",
       "title": "Morning Special Part 2 - 2026-07-07 Lesson Report",
@@ -52,6 +64,12 @@
     }
   ],
   "power-english": [
+    {
+      "date": "2026-07-08",
+      "date_display": "Jul 8, 2026",
+      "title": "When the AC Gives Up: A Sleepless Night Without AC",
+      "url": "/lessons/2026-07-08/power-english"
+    },
     {
       "date": "2026-07-07",
       "date_display": "Jul 7, 2026",
