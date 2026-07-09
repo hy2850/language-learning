@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-07-09",
+      "date_display": "Jul 9, 2026",
+      "title": "Morning Special Part 1 - July 9, 2026",
+      "url": "/lessons/2026-07-09/morning-special-part1"
+    },
+    {
       "date": "2026-07-08",
       "date_display": "Jul 8, 2026",
       "title": "Morning Special Part 1 - July 8, 2026",
@@ -32,6 +38,12 @@
     }
   ],
   "morning-special-part2": [
+    {
+      "date": "2026-07-09",
+      "date_display": "Jul 9, 2026",
+      "title": "Morning Special Part 2 - July 9, 2026",
+      "url": "/lessons/2026-07-09/morning-special-part2"
+    },
     {
       "date": "2026-07-08",
       "date_display": "Jul 8, 2026",
@@ -65,6 +77,12 @@
   ],
   "power-english": [
     {
+      "date": "2026-07-09",
+      "date_display": "Jul 9, 2026",
+      "title": "Diving Back In, Part Two: Choosing Swim Gear",
+      "url": "/lessons/2026-07-09/power-english"
+    },
+    {
       "date": "2026-07-08",
       "date_display": "Jul 8, 2026",
       "title": "When the AC Gives Up: A Sleepless Night Without AC",
@@ -97,6 +115,12 @@
   ],
   "evening-special": [],
   "tanoshii-jp": [
+    {
+      "date": "2026-07-09",
+      "date_display": "Jul 9, 2026",
+      "title": "楽しい日本語 Lesson Report — 時代とともに変化してるんですね",
+      "url": "/lessons/2026-07-09/tanoshii-jp"
+    },
     {
       "date": "2026-04-16",
       "date_display": "Apr 16, 2026",
