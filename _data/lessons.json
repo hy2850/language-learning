@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-07-10",
+      "date_display": "Jul 10, 2026",
+      "title": "Morning Special Part 1 — 2026년 7월 10일 (금요일)",
+      "url": "/lessons/2026-07-10/morning-special-part1"
+    },
+    {
       "date": "2026-07-09",
       "date_display": "Jul 9, 2026",
       "title": "Morning Special Part 1 - July 9, 2026",
@@ -38,6 +44,12 @@
     }
   ],
   "morning-special-part2": [
+    {
+      "date": "2026-07-10",
+      "date_display": "Jul 10, 2026",
+      "title": "Morning Special Part 2 — July 10, 2026 Lesson Report",
+      "url": "/lessons/2026-07-10/morning-special-part2"
+    },
     {
       "date": "2026-07-09",
       "date_display": "Jul 9, 2026",
@@ -77,6 +89,12 @@
   ],
   "power-english": [
     {
+      "date": "2026-07-10",
+      "date_display": "Jul 10, 2026",
+      "title": "Shrinking Profit Margins: Cutting Costs to Make It Work",
+      "url": "/lessons/2026-07-10/power-english"
+    },
+    {
       "date": "2026-07-09",
       "date_display": "Jul 9, 2026",
       "title": "Diving Back In, Part Two: Choosing Swim Gear",
@@ -115,6 +133,12 @@
   ],
   "evening-special": [],
   "tanoshii-jp": [
+    {
+      "date": "2026-07-10",
+      "date_display": "Jul 10, 2026",
+      "title": "楽しい日本語 Lesson Report — 集客イベントがうまくいったみたいで",
+      "url": "/lessons/2026-07-10/tanoshii-jp"
+    },
     {
       "date": "2026-07-09",
       "date_display": "Jul 9, 2026",
