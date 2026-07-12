@@ -1,6 +1,12 @@
 {
   "morning-special-part1": [
     {
+      "date": "2026-07-11",
+      "date_display": "Jul 11, 2026",
+      "title": "Morning Special Part 1 — July 11, 2026 (Saturday)",
+      "url": "/lessons/2026-07-11/morning-special-part1"
+    },
+    {
       "date": "2026-07-10",
       "date_display": "Jul 10, 2026",
       "title": "Morning Special Part 1 — 2026년 7월 10일 (금요일)",
@@ -44,6 +50,12 @@
     }
   ],
   "morning-special-part2": [
+    {
+      "date": "2026-07-11",
+      "date_display": "Jul 11, 2026",
+      "title": "Morning Special Part 2 Lesson — July 11, 2026",
+      "url": "/lessons/2026-07-11/morning-special-part2"
+    },
     {
       "date": "2026-07-10",
       "date_display": "Jul 10, 2026",
@@ -89,6 +101,12 @@
   ],
   "power-english": [
     {
+      "date": "2026-07-11",
+      "date_display": "Jul 11, 2026",
+      "title": "Vinyl Record Sales Hit One Billion Dollars in the US",
+      "url": "/lessons/2026-07-11/power-english"
+    },
+    {
       "date": "2026-07-10",
       "date_display": "Jul 10, 2026",
       "title": "Shrinking Profit Margins: Cutting Costs to Make It Work",
@@ -133,6 +151,12 @@
   ],
   "evening-special": [],
   "tanoshii-jp": [
+    {
+      "date": "2026-07-11",
+      "date_display": "Jul 11, 2026",
+      "title": "楽しい日本語 Lesson Report — なぜ人は猫派と犬派に分かれる",
+      "url": "/lessons/2026-07-11/tanoshii-jp"
+    },
     {
       "date": "2026-07-10",
       "date_display": "Jul 10, 2026",
